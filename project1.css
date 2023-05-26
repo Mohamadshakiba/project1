@@ -57,6 +57,7 @@
     position: absolute;
     left: 60px;
     top: 0;
+    color: #fff;
     display: -webkit-box ;
     display: -ms-flexbo x;
     display: flex;
